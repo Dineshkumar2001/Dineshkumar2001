@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there , Good to have you here !!👋
+
+<html>
+<head>
+
+<p>✓ I am Dinesh Kumar,Currently pursuing my bachelors from Dr.N.G.P.Institute of Technology in Electrical and Electronics Engineering.</p> 
+<p>✓ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming.</p>
+<p>✓ I have experience in FULL Stack web development.</p>
+<p>✓ I have been the participant of open-source event such as HacktoberFest'20.</p>
+
 
 <!--
 **Dineshkumar2001/Dineshkumar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
