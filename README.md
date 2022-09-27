@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **dineshsdhinu2001@gmail.com**
 
-- 📄 Know about my experiences [Currently doing my internship as Software Developer](Currently doing my internship as Software Developer)
+- 📄 Know about my experiences Currently doing my internship as Software Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
