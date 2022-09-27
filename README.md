@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Good to have you here !!👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Software Developer From Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumar2001&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumar2001" /> </p>
 
