@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dineshsdhinu2001](https://medium.com/@dineshsdhinu2001)
 
-- 💬 Ask me about **C++,Flutter**
+- 💬 Ask me about **C++, Flutter and SQL**
 
 - 📫 How to reach me **dineshsdhinu2001@gmail.com**
 
